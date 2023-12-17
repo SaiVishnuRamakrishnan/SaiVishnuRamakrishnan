@@ -6,6 +6,6 @@ across multiple platforms. My areas of interest include Object-Oriented Programm
 Systems and Full Stack Development.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(100%);'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saivishnur//)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%);'>](https://saivishnuramakrishnan.github.io/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: invert(100%);'>]([https://www.linkedin.com/in/https://www.linkedin.com/in/saivishnur//](https://www.linkedin.com/in/saivishnur))  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: invert(100%);'>]([https://saivishnuramakrishnan.github.io/](https://github.com/SaiVishnuRamakrishnan))  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' style='filter: invert(100%);'>](saivishnuramakrishnan@gmail.com)
