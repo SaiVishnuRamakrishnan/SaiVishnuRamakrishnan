@@ -12,3 +12,13 @@ multiple platforms.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color: white;'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saivishnur//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='color: white;'>](https://saivishnuramakrishnan.github.io/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' style='color: white;'>](saivishnuramakrishnan@gmail.com)
+
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/saivishnur//" style="text-decoration: none;">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='filter: brightness(0) invert(1);'>
+</a>
+<a href="https://saivishnuramakrishnan.github.io/" style="text-decoration: none;">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='filter: brightness(0) invert(1);'>
+</a>
+<a href="mailto:saivishnuramakrishnan@gmail.com" style="text-decoration: none;">
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' style='filter: brightness(0) invert(1);'>
+</a>
