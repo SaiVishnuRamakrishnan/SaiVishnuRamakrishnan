@@ -2,9 +2,34 @@
 
 An independent, diligent, and self-motivated Masters Graduate student (Computer Engineering) with 3 years
 of experience as software developer with strong foundations in software engineering and programming principles
-across multiple platforms. My areas of interest include Object-Oriented Programming, Database Management
-Systems and Full Stack Development.
+across multiple platforms. My areas of interest include Object-Oriented Programming, Software Development,
+Full Stack Development and Database Management Systems.
 
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saivishnur/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://saivishnuramakrishnan.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](saivishnuramakrishnan@gmail.com)  
+### Connect with me:
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='fill:white;'>](https://www.linkedin.com/in/saivishnur/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40' style='fill:white;'>](https://saivishnuramakrishnan.github.io/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40' style='fill:white;'>](mailto:saivishnuramakrishnan@gmail.com)
+
+---
+
+### Skills and Interests:
+
+- Object-Oriented Programming
+- Database Management Systems
+- Full Stack Development
+
+---
+
+### Projects and Work:
+
+Check out my [portfolio](https://saivishnuramakrishnan.github.io/) for more information about my projects and work experience.
+
+---
+
+### Stats:
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saivishnuramakrishnan&show_icons=true&theme=radical)
