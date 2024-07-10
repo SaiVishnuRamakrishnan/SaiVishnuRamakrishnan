@@ -16,14 +16,6 @@ Full Stack Development and Database Management Systems.
 
 ---
 
-### Skills and Interests:
-
-- Object-Oriented Programming
-- Database Management Systems
-- Full Stack Development
-
----
-
 ### Projects and Work:
 
 Check out my [portfolio](https://saivishnuramakrishnan.github.io/) for more information about my projects and work experience.
