@@ -21,7 +21,7 @@
 
 ## 📌 Pinned Projects:
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=YourRepo1&theme=radical)](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)
+[![ReadMe Card](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=YourRepo2&theme=radical)](https://github.com/SaiVishnuRamakrishnan/YourRepo2)
 
 🔗 Check out my **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)** for more projects!
