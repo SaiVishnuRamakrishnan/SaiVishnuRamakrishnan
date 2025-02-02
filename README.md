@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Sai Vishnu Ramakrishnan
 
-An independent, diligent, and self-motivated Masters Graduate student (Computer Engineering) with 3 years
-of experience as software developer with strong foundations in software engineering and programming principles
-across multiple platforms. My areas of interest include Object-Oriented Programming, Software Development,
-Full Stack Development and Database Management Systems.
+Software Developer with 4+ years of experience specializing in backend and full-stack development, building scalable data integration solutions, and optimizing performance through RESTful APIs and microservices. Proficient in Java, Spring Frameworks, and cloud technologies, with a solid understanding of AWS services and DevOps practices. A proactive, detail-oriented team player dedicated to delivering high-quality software solutions.
 
 
 ---
