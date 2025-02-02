@@ -25,15 +25,28 @@
 
 [![Edge Computing](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Edge_Computing&theme=radical)](https://github.com/SaiVishnuRamakrishnan/Edge_Computing)
 
+[![Vehicle Number-Plate-Detection](https://github.com/SaiVishnuRamakrishnan/Vehicle-Number-Plate-Detection)
+
+
 🔗 Check out my **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)** for more projects!
 
 ---
 
 ## 📊 GitHub Stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saivishnuramakrishnan&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saivishnuramakrishnan&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=saivishnuramakrishnan&theme=radical)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivishnuramakrishnan&layout=compact&theme=radical)
+
+### 📈 Activity Graph:
+[![Sai Vishnu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saivishnuramakrishnan&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🚀 Contributions & Commits:
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=saivishnuramakrishnan&theme=radical)
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com?user=saivishnuramakrishnan&theme=radical)
+
+### 🏆 GitHub Achievements:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saivishnuramakrishnan&theme=radical)
 
 ---
 
