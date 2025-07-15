@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Sai Vishnu Ramakrishnan
 
-🚀 **Software Developer | Java | Spring Boot | AWS | Full Stack**  
+🚀 **Software Developer | Java | Spring Boot | Full Stack**  
 
 👨‍💻 Software Developer with 4+ years of experience specializing in backend and full-stack development, building scalable data integration solutions, and optimizing performance through RESTful APIs and microservices. Proficient in Java, Spring Frameworks, cloud technologies, and DevOps practices. Passionate about building high-quality software solutions and continuously learning new technologies.
 
