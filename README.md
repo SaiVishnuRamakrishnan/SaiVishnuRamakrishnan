@@ -14,21 +14,15 @@ A **strong problem solver and quick learner**, always ready to master new techno
 
 **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 **Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2F74C0?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ---
 
-## 📌 Pinned Projects  
+## 📌 Projects  
 
-[![Pharma Logistics Application](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=PharmaLogisticsApplication&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)  
-
-[![Edge Computing](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Edge_Computing&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/Edge_Computing)  
-
-[![Vehicle Number Plate Detection](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Vehicle-Number-Plate-Detection&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/Vehicle-Number-Plate-Detection)  
-
-🔗 Explore more in my **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)**  
+🔗 **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)**  
 
 ---
 
@@ -57,9 +51,11 @@ A **strong problem solver and quick learner**, always ready to master new techno
 
 ## 🌐 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivishnur/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saivishnuramakrishnan.github.io/)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivishnuramakrishnan@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/saivishnur/](https://www.linkedin.com/in/saivishnur/)  
+
+Email: [saivishnuramakrishnan@gmail.com](mailto:saivishnuramakrishnan@gmail.com)  
+
+Portfolio: [https://saivishnuramakrishnan.github.io/](https://saivishnuramakrishnan.github.io/)  
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or any inquiries. 😊  
 
