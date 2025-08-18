@@ -1,58 +1,68 @@
-## Hi there 👋, I'm Sai Vishnu Ramakrishnan
+## Hello 👋, I'm Sai Vishnu Ramakrishnan  
 
-🚀 **Software Developer | Java | Spring Boot | Full Stack**  
+🚀 **Full Stack Developer | Java | Spring Boot | Angular & React | Cloud | DevOps | Databases**
 
-👨‍💻 Software Developer with 4+ years of experience specializing in backend and full-stack development, building scalable data integration solutions, and optimizing performance through RESTful APIs and microservices. Proficient in Java, Spring Frameworks, cloud technologies, and DevOps practices. Passionate about building high-quality software solutions and continuously learning new technologies.
-
----
-## 🛠️ Tech Stack:
-
-![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Database Technologies](https://img.shields.io/badge/Database_Technologies-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2F74C0?style=for-the-badge&logo=github-actions&logoColor=white)
+👨‍💻 **Software Developer with 4+ years of experience** building scalable full-stack and cloud-based applications.  
+Proficient in the **end-to-end software development lifecycle**—from requirements gathering to deployment—delivering **secure, high-quality solutions** that enhance user experience.  
+A **strong problem solver and quick learner**, always ready to master new technologies and deliver results efficiently while collaborating effectively.  
 
 ---
 
-## 📌 Pinned Projects:
+## 🛠️ Tech Stack  
 
-[![Pharma Logistics Application](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=PharmaLogisticsApplication&theme=radical)](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)
+**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![REST](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=apachespark&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)  
 
-[![Edge Computing](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Edge_Computing&theme=radical)](https://github.com/SaiVishnuRamakrishnan/Edge_Computing)
+**Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-[![Vehicle Number Plate Detection](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Vehicle-Number-Plate-Detection&theme=radical)](https://github.com/SaiVishnuRamakrishnan/Vehicle-Number-Plate-Detection)
+**Databases:** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 
-
-🔗 Check out my **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)** for more projects!
-
----
-
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saivishnuramakrishnan&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=saivishnuramakrishnan&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivishnuramakrishnan&layout=compact&theme=radical)
-
-### 🚀 Contributions & Commits:
-![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=saivishnuramakrishnan&theme=radical)
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com?user=saivishnuramakrishnan&theme=radical)
-
-### 🏆 GitHub Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saivishnuramakrishnan&theme=radical)
+**Cloud & DevOps:** ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2F74C0?style=for-the-badge&logo=github-actions&logoColor=white)  
 
 ---
 
-## 🔗 Connect with Me:
+## 📌 Pinned Projects  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivishnur/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saivishnuramakrishnan.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivishnuramakrishnan@gmail.com)
+[![Pharma Logistics Application](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=PharmaLogisticsApplication&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/PharmaLogisticsApplication)  
+
+[![Edge Computing](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Edge_Computing&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/Edge_Computing)  
+
+[![Vehicle Number Plate Detection](https://github-readme-stats.vercel.app/api/pin/?username=saivishnuramakrishnan&repo=Vehicle-Number-Plate-Detection&theme=tokyonight)](https://github.com/SaiVishnuRamakrishnan/Vehicle-Number-Plate-Detection)  
+
+🔗 Explore more in my **[GitHub Repositories](https://github.com/SaiVishnuRamakrishnan?tab=repositories)**  
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saivishnuramakrishnan&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=saivishnuramakrishnan&theme=tokyonight)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivishnuramakrishnan&layout=compact&theme=tokyonight)  
+
+### 🚀 Contributions & Commits  
+![GitHub Contributions](https://github-contributor-stats.vercel.app/api?username=saivishnuramakrishnan&theme=tokyonight)  
+![GitHub Commits](https://github-readme-streak-stats.herokuapp.com?user=saivishnuramakrishnan&theme=tokyonight)  
+
+### 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=saivishnuramakrishnan&theme=tokyonight)  
+
+---
+
+## 📚 Currently Learning  
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![DevOps](https://img.shields.io/badge/DevOps-2F74C0?style=for-the-badge&logo=azuredevops&logoColor=white)  
+
+---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saivishnur/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://saivishnuramakrishnan.github.io/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saivishnuramakrishnan@gmail.com)  
+
+Feel free to explore my repositories, and don't hesitate to reach out for collaboration or any inquiries. 😊  
+
+---
+
+⭐ **If you find my work useful, please consider giving my repositories a star!** ⭐
